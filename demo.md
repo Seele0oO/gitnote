@@ -4,4 +4,7 @@
 
 也还行吧
 
-![image-20210721222644128](https://raw.githubusercontent.com/ding667/pic/master/img/image-20210721222644128.png)
+<img src="https://raw.githubusercontent.com/ding667/pic/master/img/image-20210721222644128.png" alt="image-20210721222644128" style="zoom:200%;" />
+
+大概这样
+
